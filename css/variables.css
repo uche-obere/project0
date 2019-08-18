@@ -1,0 +1,23 @@
+a {
+  font-family: monospace;
+  font-size: 14px;
+  color: darkslategray; }
+
+tr {
+  font-family: monospace;
+  font-size: 14px;
+  color: darkslategray; }
+
+p {
+  font-family: monospace;
+  font-size: 14px;
+  color: darkslategray; }
+
+.grid-item {
+  font-family: monospace;
+  color: darkslategray; }
+  .grid-item p {
+    font-size: 16px;
+    font-weight: bold; }
+
+/*# sourceMappingURL=variables.css.map */

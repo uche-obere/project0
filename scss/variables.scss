@@ -1,0 +1,28 @@
+$font: monospace;
+$fontsize: 14px;
+$fontcolor: darkslategray;
+$ulfontsize: 16px;
+
+a {
+	font-family: $font;
+	font-size: $fontsize;
+	color: $fontcolor;
+}
+tr {
+	font-family: $font;
+	font-size: $fontsize;
+	color: $fontcolor;
+}
+p {
+	font-family: $font;
+	font-size: $fontsize;
+	color: $fontcolor;
+}
+.grid-item {
+	font-family: $font;
+	color: $fontcolor;
+	p {
+		font-size: $ulfontsize;
+		font-weight: bold;
+	}
+}
